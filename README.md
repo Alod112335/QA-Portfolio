@@ -1,6 +1,6 @@
 # Avengers: Infinity War
 
-![Infinity War Poster](https://www.pluggedin.com/wp-content/uploads/2019/12/Avengers_Infinity_War__Large.jpg-1200x688.jpeg)
+![Infinity War Poster](https://lh3.googleusercontent.com/IBukXnzaqSf5osWU7MCnKUE42i8MbgbbWxUSiAJ7YJXWCOhICqJjCq1oC6SEoFSz4LOF5D_qnLDAF8txhb9Z6wx8=w640-h400-e365-rj-sc0x00ffffff)
 
 ## Overview
 
