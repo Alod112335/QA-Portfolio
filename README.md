@@ -11,4 +11,21 @@ Working as a programmer, software tester, and manual tester on my last project, 
 # Tools
 [Git](https://git-scm.com/) - for better work in the development team and controlling software versions.<br/>
 [GitHub](https://github.com/) - supporting Git and preparing my repositories.<br/>
-[Firebase](https://firebase.google.com/?_gl=1*2ba99g*_up*MQ..&gclid=Cj0KCQiA4-y8BhC3ARIsAHmjC_GvPXH7qSsvJWqC6cRU-WTMWkqnG3ou4zBlEkbLfMcEW30bwAxd_QQaApFIEALw_wcB&gclsrc=aw.ds) - for storing data.<br/>
+[Firebase](https://firebase.google.com/) - for real-time database.<br/>
+[Visual Studio Code](https://code.visualstudio.com/)<br/>
+[React](https://react.dev/)<br/>
+
+# Tech Skills
+Java
+Javascript/Typescript
+HTML and CSS
+Software and Manual Testing
+Creating documentation and test cases
+Reporting bugs
+
+# Certificates
+[Java](https://elms.sti.edu/print_certificate/pdf?user_award=8496115)<br/>
+
+
+
+
