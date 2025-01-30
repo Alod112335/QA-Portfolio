@@ -9,4 +9,6 @@ Working as a programmer, software tester, and manual tester on my last project, 
 [AcademicHub](https://l.facebook.com/l.php?u=https%3A%2F%2Facademic-hub-bcdp.netlify.app%2Fregister%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2IOG3MAU1HKdaFQhgSysTUy0_86x-jiDE2plU1_MOObstU2hLndnj5gu0_aem_mblFLsNLAxDnQC-CspM5JA&h=AT1636jlCRlBVPOuRS0Xm7Cfobqqrs4KfdX8Eegxn_jMEm12a-I6DPYhq5dakLsKQSZFcckW6SlCyZ81PUrsMo9xfxfXNhckce5qqsY5cB7FLNlBKlhTDd9jqGUJwgm814R2fqtrXKZ1WJKoL68Yug)<br/>
 
 # Tools
-[Git](https://git-scm.com/) - for better work in the development team and controlling software versions<br/>
+[Git](https://git-scm.com/) - for better work in the development team and controlling software versions.<br/>
+[GitHub](https://github.com/) - supporting Git and preparing my repositories.<br/>
+[Firebase](https://firebase.google.com/?_gl=1*2ba99g*_up*MQ..&gclid=Cj0KCQiA4-y8BhC3ARIsAHmjC_GvPXH7qSsvJWqC6cRU-WTMWkqnG3ou4zBlEkbLfMcEW30bwAxd_QQaApFIEALw_wcB&gclsrc=aw.ds) - for storing data.<br/>
