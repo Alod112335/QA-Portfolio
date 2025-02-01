@@ -1,6 +1,7 @@
 # About me 👋
 Hi, my name is Johnn Rod, I have been studying and practicing to become a QA. In this portfolio, I would like to share my knowledge of QA and showcase the practical skills I have gained through my course and self-study. I am determined to continue to grow in this field.
 
+# Project
 [My Linkedin Profile](www.linkedin.com/in/rod-bacoto-168467332)<br/>
 
 # My Experience
