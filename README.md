@@ -17,7 +17,7 @@ Working as a programmer, software tester, and manual tester on my last project, 
 [React](https://react.dev/)<br/>
 
 # Tech Skills
-Java
+Java<br/>
 Javascript/Typescript
 HTML and CSS
 Software and Manual Testing
