@@ -18,11 +18,11 @@ Working as a programmer, software tester, and manual tester on my last project, 
 
 # Tech Skills
 Java<br/>
-Javascript/Typescript
-HTML and CSS
-Software and Manual Testing
-Creating documentation and test cases
-Reporting bugs
+Javascript/Typescript<br/>
+HTML and CSS<br/>
+Software and Manual Testing<br/>
+Creating documentation and test cases<br/>
+Reporting bugs<br/>
 
 # Certificates
 [Java](https://elms.sti.edu/print_certificate/pdf?user_award=8496115)<br/>
