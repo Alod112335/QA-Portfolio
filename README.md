@@ -25,11 +25,11 @@ Creating documentation and test cases<br/>
 Reporting bugs<br/>
 
 # Certificates
-[Java](https://elms.sti.edu/print_certificate/pdf?user_award=8496115)<br/>
-[System Administration](https://elms.sti.edu/print_certificate/pdf?user_award=8535062)<br/>
+[Java](https://drive.google.com/file/d/1cKVzPh30T-eFC1ufwP-WyUfexX0jx8Pf/view?usp=drive_link)<br/>
+[System Administration](https://drive.google.com/file/d/1A8HPmgNP1pJ4qagTQMoLzaad0_rfDODm/view?usp=drive_link)<br/>
 
 # Samples
-[Test Cases](https://drive.google.com/file/d/1U9CrVnllsZAJCyJqFky7QCP75XjSFZUR/view?usp=sharing)<br/>
+[Test Cases](https://drive.google.com/file/d/1iminhojVyFAu7bAts5HOAU3UY3q8tNrI/view?usp=drive_link)<br/>
 
 
 
