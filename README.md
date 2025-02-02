@@ -1,5 +1,5 @@
 # About me 👋
-Hi, my name is Johnn Rod, I have been studying and practicing to become a QA. In this portfolio, I would like to share my knowledge in QA and showcase the practical skills I have gained through my course and self-study. I am determined to continue to grow in this field.
+Hi, my name is Johnn Rod, I have been studying and practicing to become a Quality Assurance Tester. In this portfolio, I would like to share my knowledge and expertise in Quality Assurance and showcase the practical skills I have gained through my course and self-studying. I am determined to continue to grow my skills and expand my knowledge in this field.
 
 [My Linkedin Profile](www.linkedin.com/in/rod-bacoto-168467332)<br/>
 
@@ -14,7 +14,6 @@ Working as a programmer, software tester, and manual tester on my last project, 
 [GitHub](https://github.com/) - supporting Git and preparing my repositories.<br/>
 [Firebase](https://firebase.google.com/) - for real-time database.<br/>
 [Visual Studio Code](https://code.visualstudio.com/)<br/>
-[React](https://react.dev/)<br/>
 
 # Tech Skills
 Java<br/>
